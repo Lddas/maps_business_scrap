@@ -1,0 +1,24 @@
+Subject: Professional Website Solution for {business_name}
+
+Hello {business_name} Team,
+
+I hope this email finds you well. I noticed that {business_name} located at {address} doesn't currently have a website presence online.
+
+In today's digital age, having a professional website is crucial for business growth and customer acquisition. We specialize in creating affordable, professional websites tailored for businesses like yours.
+
+Our services include:
+- Custom website design
+- Mobile-responsive layouts
+- SEO optimization
+- Easy content management
+- Affordable pricing
+
+Would you be interested in learning more about how we can help establish your online presence? I'd be happy to schedule a quick call to discuss your needs.
+
+Best regards,
+Website Market Team
+
+---
+This email was sent to {business_name} at {address}.
+If you'd like to unsubscribe, please reply with "UNSUBSCRIBE".
+
